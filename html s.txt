@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>BMW sports Cars</title>
+</head>
+<body>
+
+    <header>
+        <a href="#" class="logo">BMW</a>
+        <nav class="navigation">
+            <a href="#services">infrmion</a>
+            <a href="#projects">CARS</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+
+    <section class="main">
+        <div>
+            <h2>welcome in our world<br><span>BMW Sports Cars</span></h2>
+            <h3>BMW is the best company that manufactures sports cars</h3>
+            <a href="#projects" class="main-btn">View types of cars</a>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="cards" id="services">
+        <h2 class="title">infrmion</h2>
+        <div class="content">
+            <div class="card">
+                <div class="icon">
+                    <i class="fa-solid fa-car"></i>
+                </div>
+                <div class="info">
+                    <h3>infrmion</h3>
+                    <p>The firm was reorganized on 7 March 1916 into Bayerische Flugzeugwerke AG. This company was then renamed to Bayerische Motoren Werke (BMW) in 1922. However, the name BMW dates back to 1913, when the original company to use the name was founded by Karl Rapp (initially as Rapp Motorenwerke GmbH)</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fa-solid fa-gear"></i>
+                </div>
+                <div class="info">
+                    <h3>engine</h3>
+                    <p>7 cars you didn't know have BMW engines
+Ascari KZ1. The S62 is a brutal sounding engine and featured in the E39 M5 and underappreciated Z8, but one of its best appearances was with the Italian-sounding British marque, Ascari. ...
+McLaren F1. ...
+De Tomaso Guarà ...
+Veritas RS3. ...
+Wiesmann GT. ...
+Brabham BT52. ...
+Project Car Brutus.
+</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fa-solid fa-check"></i>
+                </div>
+                <div class="info">
+                    <h3>Qualite</h3>
+                    <p>BMW is considered to be a luxury car brand with a reputation for high quality and performance. However, there are many other luxury car brands that also have a reputation for quality, such as Mercedes-Benz, Porsche, and Audi. Ultimately, what is considered the "highest quality" luxury car brand can be subjective and depend on individual preferences.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="projects" id="projects">
+        <h2 class="title">Projects</h2>
+        <div class="content">
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images/CSL.jpg" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">If you thought BMW M's 50th-anniversary celebrations were going to stop at the new BMW M4 CSL and an M3 Touring, then it's time to be pleasantly surprised.</p>
+                    <strong class="project-title">
+                        <span>750,000$</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images/i8 coupe.jpg" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">BMW hasn't announced any changes to the i8 for 2020</p>
+                    <strong class="project-title">
+                        <span>147,500$</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images/I8 Roadster.jpg" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">With production due to end in the first half of 2020, BMW is celebrating the i8's life with the i8 Ultimate Sophisto Edition.</p>
+                    <strong class="project-title">
+                        <span>163,300$</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images/m4 convertible.jpg" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">The BMW M4 Convertible adds the flexibility and glamor of top-down driving to one of the great German sports coupes.</p>
+                    <strong class="project-title">
+                        <span>89.000$</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images/m4 gts.jpg" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">3.0L Twin-Turbo Inline-6 Gas</p>
+                    <strong class="project-title">
+                        <span>133,205$</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images/M5 CS.jpg" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">The 2022 BMW M5 CS is an all-new arrival. It's not only the fastest and most powerful M5 yet, but also a new benchmark for BMW M in general.</p>
+                    <strong class="project-title">
+                        <span>142,000$</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cards contact" id="contact">
+        <h2 class="title">Let's work together</h2>
+        <div class="content">
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-phone"></i>
+                </div>
+                <div class="info">
+                    <h3>Phone</h3>
+                    <p>+20122222222</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div class="info">
+                    <h3>Email</h3>
+                    <p>business@BMW.com</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <footer class="footer">
+        <p class="footer-title">Copyrights @ <span>abdulrahman , suliman , faisal</span></p>
+        <div class="social-icons">
+            <a href="#"><i class="fab fa-linkedin"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+        </div>
+    </footer>
+
+</body>
+</html>
